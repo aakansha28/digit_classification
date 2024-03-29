@@ -1,1 +1,1 @@
-# digit_classification
+The objective of this project is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively. For this, mnist dataset is used and deep learning algorithms are used to build the model. 
